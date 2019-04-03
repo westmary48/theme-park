@@ -1,0 +1,147 @@
+{
+    "rides":[
+        {
+            "id": "ride1",
+            "name": "Space Mountain",
+            "duration": 120,
+            "type": "coaster",
+            "heightReq": 50,
+            "intensity":"high",
+            "ridersPerTurn": 12,
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRaWG9TAzDC8LO_ckGMZJs62Xe5cyAb6zo2oWgIM-B17gDmIYj",
+            "isOperating": true,
+            "waitTime": 45,
+            "bodyCount": 0,
+            "lastFatality": "1/01/1400"
+        },
+        {
+            "id": "ride2",
+            "name": "Teacups",
+            "duration": 180,
+            "type": "kiddie",
+            "heightReq": 0,
+            "intensity":"low",
+            "ridersPerTurn": 50,
+            "imageUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F80%2FTeacupsMadTeaParty_wb.jpg%2F250px-TeacupsMadTeaParty_wb.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMad_Tea_Party&docid=CCooHJIzM1-AWM&tbnid=8LFY6q939MPy7M%3A&vet=10ahUKEwiSoJq607LhAhWlna0KHdvcDjEQMwhVKAAwAA..i&w=250&h=188&bih=939&biw=1680&q=teacups%20ride&ved=0ahUKEwiSoJq607LhAhWlna0KHdvcDjEQMwhVKAAwAA&iact=mrc&uact=8",
+            "isOperating": true,
+            "waitTime": 15,
+            "bodyCount": 1000,
+            "lastFatality": "4/01/2019"
+        },
+        {
+            "id": "ride3",
+            "name": "Tower of Terror",
+            "duration": 150,
+            "type": "coaster",
+            "heightReq": 56,
+            "intensity":"high",
+            "ridersPerTurn": 13,
+            "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0a/fd/1c/a2/inside-ridecrazy-fun.jpg",
+            "isOperating": true,
+            "waitTime": 90,
+            "bodyCount": 1300,
+            "lastFatality": "3/11/2019"
+        },
+        {
+            "id": "ride4",
+            "name": "Kingda Ka",
+            "duration": 100,
+            "type": "coaster",
+            "heightReq": 60,
+            "intensity":"high",
+            "ridersPerTurn": 8,
+            "imageUrl": "https://amp.businessinsider.com/images/5220b558eab8ea8b23cc5b9b-750-375.jpg",
+            "isOperating": true,
+            "waitTime": 300,
+            "bodyCount": 15000,
+            "lastFatality": "4/02/2019"
+        },
+        {
+            "id": "ride5",
+            "name": "Millennium Force",
+            "duration": 140,
+            "type": "coaster",
+            "heightReq": 57,
+            "intensity":"high",
+            "ridersPerTurn": 10,
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStca9xpelYgEHj1DpCYiYnZZVNC8WnRcqG_UV9y2L9us5qmWo9",
+            "isOperating": true,
+            "waitTime": 75,
+            "bodyCount": 800,
+            "lastFatality": "1/01/2019"
+        },
+        {
+            "id": "ride6",
+            "name": "Hopper",
+            "duration": 60,
+            "type": "kiddie",
+            "heightReq": 0,
+            "intensity":"low",
+            "ridersPerTurn": 50,
+            "imageUrl": "https://i.ytimg.com/vi/TDM8Aj6nsiU/maxresdefault.jpg",
+            "isOperating": true,
+            "waitTime": 15,
+            "bodyCount": 1000,
+            "lastFatality": "4/01/2019"
+        },
+        {
+            "id": "ride7",
+            "name": "Swings",
+            "duration": 80,
+            "type": "kiddie",
+            "heightReq": 38,
+            "intensity":"low",
+            "ridersPerTurn": 100,
+            "imageUrl": "https://chairswingrides.com/wp-content/uploads/2018/07/spinning-swing-ride24n.jpg",
+            "isOperating": false,
+            "waitTime": 0,
+            "bodyCount": 10,
+            "lastFatality": "7/23/2017"
+        },
+
+        {
+            "id": "ride8",
+            "name": "Howling Tornado",
+            "duration": 40,
+            "type": "water",
+            "heightReq": 30,
+            "intensity":"medium",
+            "ridersPerTurn": 1,
+            "imageUrl": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjd1JL12LLhAhXpzVkKHT_0CgQQjRx6BAgBEAU&url=https%3A%2F%2Fwww.greatwolf.com%2Fsouthern-california%2Fwaterpark-attractions%2Fswim-splash-slide%2Fhowlin-tornado&psig=AOvVaw3vdMmFI2DcNKSeSDnMJlRc&ust=1554338624654775",
+            "isOperating": true,
+            "waitTime": 30,
+            "bodyCount": 9,
+            "lastFatality": "8/01/2018"
+        },
+        {
+            "id": "ride9",
+            "name": "Thunder Mountain",
+            "duration": 200,
+            "type": "coaster",
+            "heightReq": 40,
+            "intensity":"medium",
+            "ridersPerTurn": 40,
+            "imageUrl": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/630/354/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/big-thunder-mountain-railroad/big-thunder-mountain-railroad-00.jpg?1551134357669",
+            "isOperating": true,
+            "waitTime": 45,
+            "bodyCount":3,
+            "lastFatality": "5/04/2015"
+        },
+        {
+            "id": "ride10",
+            "name": "Jurassic Park: The Ride",
+            "duration": 180,
+            "type": "water",
+            "heightReq": 50,
+            "intensity":"medium",
+            "ridersPerTurn": 8,
+            "imageUrl": "https://jurassicoutpost.com/wp-content/uploads/2018/02/2800x1197_Jurassic_Park_Drop_v2.jpg",
+            "isOperating": true,
+            "waitTime": 35,
+            "bodyCount": 10,
+            "lastFatality": "3/01/2012"
+        }
+
+    ]
+
+}
